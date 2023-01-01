@@ -1,0 +1,16 @@
+@media (max-width: 900px) {
+    .Geo {
+      display: none;
+    }
+  }
+  
+  .buTTon {
+    background: #3496cf;
+    color: antiquewhite;
+  }
+  
+  .buT {
+    background: #967b73;
+    color: antiquewhite;
+  }
+  
